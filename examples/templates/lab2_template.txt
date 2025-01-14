@@ -19,8 +19,8 @@ For example: "Phone: 4GB of RAM and 128GB of storage."
 Hint: Use gsmarena.com or search the internet for model specifications.
 
 Your answers:
-a) Phone: [Insert your answer here instead of this sentence.]
-b) Computer: [Insert your answer here]
+a) Phone: [6GB of RAM and 128GB of storage]
+b) Computer: [32GB of RAM and 475GB of storage]
 
 ================================================================================
 QUESTION 2: MONITOR PIXEL RESOLUTION
